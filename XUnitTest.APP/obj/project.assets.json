@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.APP\\XUnitTest.APP.csproj",
+      "projectUniqueName": "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.APP\\XUnitTest.APP.csproj",
       "projectName": "XUnitTest.APP",
-      "projectPath": "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.APP\\XUnitTest.APP.csproj",
+      "projectPath": "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.APP\\XUnitTest.APP.csproj",
       "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.APP\\obj\\",
+      "outputPath": "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.APP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",

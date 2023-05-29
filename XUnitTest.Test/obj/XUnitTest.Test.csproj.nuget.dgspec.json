@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.Test\\XUnitTest.Test.csproj": {}
+    "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.Test\\XUnitTest.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.APP\\XUnitTest.APP.csproj": {
+    "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.APP\\XUnitTest.APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.APP\\XUnitTest.APP.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.APP\\XUnitTest.APP.csproj",
         "projectName": "XUnitTest.APP",
-        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.APP\\XUnitTest.APP.csproj",
+        "projectPath": "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.APP\\XUnitTest.APP.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.APP\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.APP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.Test\\XUnitTest.Test.csproj": {
+    "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.Test\\XUnitTest.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.Test\\XUnitTest.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.Test\\XUnitTest.Test.csproj",
         "projectName": "XUnitTest.Test",
-        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.Test\\XUnitTest.Test.csproj",
+        "projectPath": "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.Test\\XUnitTest.Test.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.Test\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.APP\\XUnitTest.APP.csproj": {
-                "projectPath": "C:\\Users\\Mustafa\\source\\repos\\XUnitTest\\XUnitTest.APP\\XUnitTest.APP.csproj"
+              "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.APP\\XUnitTest.APP.csproj": {
+                "projectPath": "C:\\Users\\Mustafa\\Documents\\GitProjeler\\xUnitBaseTest\\XUnitTest.APP\\XUnitTest.APP.csproj"
               }
             }
           }

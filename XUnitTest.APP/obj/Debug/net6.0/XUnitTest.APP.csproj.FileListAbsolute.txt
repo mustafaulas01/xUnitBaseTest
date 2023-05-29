@@ -10,3 +10,15 @@ C:\Users\Mustafa\source\repos\XUnitTest\XUnitTest.APP\obj\Debug\net6.0\XUnitTest
 C:\Users\Mustafa\source\repos\XUnitTest\XUnitTest.APP\obj\Debug\net6.0\refint\XUnitTest.APP.dll
 C:\Users\Mustafa\source\repos\XUnitTest\XUnitTest.APP\obj\Debug\net6.0\XUnitTest.APP.pdb
 C:\Users\Mustafa\source\repos\XUnitTest\XUnitTest.APP\obj\Debug\net6.0\ref\XUnitTest.APP.dll
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\bin\Debug\net6.0\XUnitTest.APP.deps.json
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\bin\Debug\net6.0\XUnitTest.APP.dll
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\bin\Debug\net6.0\XUnitTest.APP.pdb
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\obj\Debug\net6.0\XUnitTest.APP.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\obj\Debug\net6.0\XUnitTest.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\obj\Debug\net6.0\XUnitTest.APP.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\obj\Debug\net6.0\XUnitTest.APP.AssemblyInfo.cs
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\obj\Debug\net6.0\XUnitTest.APP.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\obj\Debug\net6.0\XUnitTest.APP.dll
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\obj\Debug\net6.0\refint\XUnitTest.APP.dll
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\obj\Debug\net6.0\XUnitTest.APP.pdb
+C:\Users\Mustafa\Documents\GitProjeler\xUnitBaseTest\XUnitTest.APP\obj\Debug\net6.0\ref\XUnitTest.APP.dll
