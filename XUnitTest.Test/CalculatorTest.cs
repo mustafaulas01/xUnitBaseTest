@@ -12,6 +12,13 @@ namespace XUnitTest.Test
    public  class CalculatorTest
     {
 
+        public Calculator calculator  { get; set; }
+
+        public CalculatorTest( )
+        {   
+            this.calculator=new Calculator();
+        }
+
         [Fact]
         //Test metotlarında birşey dönmüyorum.
          public void AddTest()
@@ -23,7 +30,7 @@ namespace XUnitTest.Test
             //Arrange
             int a = 5;
             int b = 20;
-            var calculator =new Calculator();
+  
 
             //Arrange
 
@@ -47,9 +54,26 @@ namespace XUnitTest.Test
             //Assert.True("Ahmet".GetType() == typeof(string));
 
             //begins with "car" regex control
+            //string value = null;
+            //Assert.Null(value);
+                
             var regex = "^car";
             Assert.Matches(regex, "car is red");
             //Assert
+
+        }
+
+
+        [Theory]
+        [InlineData(2,5,7)]
+        [InlineData(10, 2, 12)]
+        public void AddWithParameterTest(int a,int b,int expectedTotal)
+        {
+    
+
+            var actualData=calculator.Add(a,b);
+
+            Assert.Equal(actualData,expectedTotal);
 
         }
     }
